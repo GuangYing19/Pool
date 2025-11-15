@@ -12,7 +12,7 @@
 
 [普及模拟贪心gym](https://vjudge.net/article/13233)
 
-SOSDP：
+SOSDP（高维前缀和）：
 
 https://www.nowcoder.com/discuss/353147703150452736
 
