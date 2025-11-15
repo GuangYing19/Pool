@@ -11,3 +11,11 @@
 [绿导师递归](https://www.bilibili.com/video/BV1Y2421A7sB?spm_id_from=333.788.videopod.sections&vd_source=ff02464bd8f12785f87a96ef1b04ee89)
 
 [普及模拟贪心gym](https://vjudge.net/article/13233)
+
+SOSDP：
+
+https://www.nowcoder.com/discuss/353147703150452736
+
+https://zhuanlan.zhihu.com/p/651143987
+
+https://zhuanlan.zhihu.com/p/651143987
